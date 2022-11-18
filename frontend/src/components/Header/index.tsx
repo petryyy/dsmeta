@@ -11,8 +11,8 @@ function Header() {
           <h1>DSMeta</h1>
           <p>
             Desenvolvido por
-            <a href="https://www.instagram.com/devsuperior.ig">
-              @devsuperior.ig
+            <a href="https://github.com/petryyy">
+              João Pedro Petry
             </a>
           </p>
         </div>
